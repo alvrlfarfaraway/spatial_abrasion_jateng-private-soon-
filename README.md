@@ -1,6 +1,6 @@
 # Abrasi dan Kualitas Udara Jawa Tengah: Kode Analisis Spasial
 
-untuk tugas Analisis statling.
+Kode untuk tugas Analisis Data Spasial untuk Data Lingkungan (Prodi Statistika dan Sains Data, UNNES).
 Repo ini berisi kode, konfigurasi, dan hasil olahan dalam bentuk CSV. Data mentah dan GeoJSON tidak disertakan dan dibuat ulang oleh skrip.
 
 ## Isi

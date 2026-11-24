@@ -48,4 +48,3 @@ Status: skrip simulasi selesai dan menghasilkan panel 35 wilayah x 12 bulan. Kal
 - Verifikasi lisensi GADM sebelum batas wilayah dipublikasikan ulang.
 - Verifikasi sumber pustaka pendukung.
 - Skrip analisis statistik spasial rumusan 1: persentase perubahan luas per kabupaten/kota 2014 sampai 2025, Moran's I, dan Getis-Ord Gi*.
-- Skrip LISA dan Getis-Ord Gi* untuk rumusan 2.
