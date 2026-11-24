@@ -1,0 +1,421 @@
+nama_wilayah,tahun,luas_daratan_ha
+Kota Tegal,2014,1740.48
+Kebumen,2014,11938.27
+Kendal,2014,6057.16
+Kota Salatiga,2014,0
+Kota Surakarta,2014,0
+Banjarnegara,2014,0
+Banyumas,2014,0
+Batang,2014,8401.23
+Blora,2014,0
+Boyolali,2014,0
+Brebes,2014,4085.21
+Cilacap,2014,17412.71
+Demak,2014,4776.81
+Grobogan,2014,0
+Jepara,2014,18675.19
+Karanganyar,2014,0
+Klaten,2014,0
+Kota Magelang,2014,0
+Kota Pekalongan,2014,1378.27
+Kudus,2014,0
+Magelang,2014,0
+Pati,2014,7085.65
+Pekalongan,2014,1854.39
+Pemalang,2014,6673.22
+Purbalingga,2014,0
+Semarang,2014,0
+Sragen,2014,0
+Sukoharjo,2014,0
+Wonosobo,2014,0
+Kota Semarang,2014,2784.09
+Purworejo,2014,5408.18
+Rembang,2014,12777.46
+Tegal,2014,5492.33
+Temanggung,2014,0
+Wonogiri,2014,2534.2
+Kota Tegal,2015,1739.35
+Kebumen,2015,11913.11
+Kendal,2015,5994.58
+Kota Salatiga,2015,0
+Kota Surakarta,2015,0
+Banjarnegara,2015,0
+Banyumas,2015,0
+Batang,2015,8378.91
+Blora,2015,0
+Boyolali,2015,0
+Brebes,2015,4756.83
+Cilacap,2015,17533.46
+Demak,2015,4508.7
+Grobogan,2015,0
+Jepara,2015,18437.83
+Karanganyar,2015,0
+Klaten,2015,0
+Kota Magelang,2015,0
+Kota Pekalongan,2015,1352.54
+Kudus,2015,0
+Magelang,2015,0
+Pati,2015,7311.81
+Pekalongan,2015,1830.07
+Pemalang,2015,6684.2
+Purbalingga,2015,0
+Semarang,2015,0
+Sragen,2015,0
+Sukoharjo,2015,0
+Wonosobo,2015,0
+Kota Semarang,2015,2854.49
+Purworejo,2015,5287.13
+Rembang,2015,12852.08
+Tegal,2015,5491.82
+Temanggung,2015,0
+Wonogiri,2015,2533.06
+Kota Tegal,2016,1864.91
+Kebumen,2016,11808.34
+Kendal,2016,6081.47
+Kota Salatiga,2016,0
+Kota Surakarta,2016,0
+Banjarnegara,2016,0
+Banyumas,2016,0
+Batang,2016,8368.29
+Blora,2016,0
+Boyolali,2016,0
+Brebes,2016,3961.38
+Cilacap,2016,17302.87
+Demak,2016,4252.33
+Grobogan,2016,0
+Jepara,2016,18242.65
+Karanganyar,2016,0
+Klaten,2016,0
+Kota Magelang,2016,0
+Kota Pekalongan,2016,1352.53
+Kudus,2016,0
+Magelang,2016,0
+Pati,2016,6444.42
+Pekalongan,2016,1799.85
+Pemalang,2016,6670.58
+Purbalingga,2016,0
+Semarang,2016,0
+Sragen,2016,0
+Sukoharjo,2016,0
+Wonosobo,2016,0
+Kota Semarang,2016,2955.96
+Purworejo,2016,5336.44
+Rembang,2016,12306.69
+Tegal,2016,5510.16
+Temanggung,2016,0
+Wonogiri,2016,2534.66
+Kota Tegal,2017,1822.72
+Kebumen,2017,11892.73
+Kendal,2017,6197.5
+Kota Salatiga,2017,0
+Kota Surakarta,2017,0
+Banjarnegara,2017,0
+Banyumas,2017,0
+Batang,2017,8346.25
+Blora,2017,0
+Boyolali,2017,0
+Brebes,2017,4668.85
+Cilacap,2017,17201.76
+Demak,2017,4613.67
+Grobogan,2017,0
+Jepara,2017,18506.85
+Karanganyar,2017,0
+Klaten,2017,0
+Kota Magelang,2017,0
+Kota Pekalongan,2017,1260.58
+Kudus,2017,0
+Magelang,2017,0
+Pati,2017,7565.71
+Pekalongan,2017,1664.18
+Pemalang,2017,6652.88
+Purbalingga,2017,0
+Semarang,2017,0
+Sragen,2017,0
+Sukoharjo,2017,0
+Wonosobo,2017,0
+Kota Semarang,2017,3059.3
+Purworejo,2017,5327.51
+Rembang,2017,12717.51
+Tegal,2017,5496.15
+Temanggung,2017,0
+Wonogiri,2017,2518.02
+Kota Tegal,2018,1783.2
+Kebumen,2018,11858.0
+Kendal,2018,6034.6
+Kota Salatiga,2018,0
+Kota Surakarta,2018,0
+Banjarnegara,2018,0
+Banyumas,2018,0
+Batang,2018,8302.28
+Blora,2018,0
+Boyolali,2018,0
+Brebes,2018,4997.83
+Cilacap,2018,17305.08
+Demak,2018,4636.14
+Grobogan,2018,0
+Jepara,2018,18478.6
+Karanganyar,2018,0
+Klaten,2018,0
+Kota Magelang,2018,0
+Kota Pekalongan,2018,1180.13
+Kudus,2018,0
+Magelang,2018,0
+Pati,2018,7247.35
+Pekalongan,2018,1521.81
+Pemalang,2018,6490.18
+Purbalingga,2018,0
+Semarang,2018,0
+Sragen,2018,0
+Sukoharjo,2018,0
+Wonosobo,2018,0
+Kota Semarang,2018,3009.23
+Purworejo,2018,5291.84
+Rembang,2018,12777.89
+Tegal,2018,5479.93
+Temanggung,2018,0
+Wonogiri,2018,2522.71
+Kota Tegal,2019,1698.72
+Kebumen,2019,11907.68
+Kendal,2019,6000.57
+Kota Salatiga,2019,0
+Kota Surakarta,2019,0
+Banjarnegara,2019,0
+Banyumas,2019,0
+Batang,2019,8307.16
+Blora,2019,0
+Boyolali,2019,0
+Brebes,2019,4962.5
+Cilacap,2019,17314.81
+Demak,2019,4809.52
+Grobogan,2019,0
+Jepara,2019,18632.68
+Karanganyar,2019,0
+Klaten,2019,0
+Kota Magelang,2019,0
+Kota Pekalongan,2019,1167.83
+Kudus,2019,0
+Magelang,2019,0
+Pati,2019,7410.38
+Pekalongan,2019,1409.3
+Pemalang,2019,6363.63
+Purbalingga,2019,0
+Semarang,2019,0
+Sragen,2019,0
+Sukoharjo,2019,0
+Wonosobo,2019,0
+Kota Semarang,2019,3069.85
+Purworejo,2019,5317.33
+Rembang,2019,12819.96
+Tegal,2019,5428.96
+Temanggung,2019,0
+Wonogiri,2019,2523.5
+Kota Tegal,2020,1722.72
+Kebumen,2020,11882.98
+Kendal,2020,6002.41
+Kota Salatiga,2020,0
+Kota Surakarta,2020,0
+Banjarnegara,2020,0
+Banyumas,2020,0
+Batang,2020,8163.3
+Blora,2020,0
+Boyolali,2020,0
+Brebes,2020,4008.64
+Cilacap,2020,16925.15
+Demak,2020,4394.01
+Grobogan,2020,0
+Jepara,2020,18420.54
+Karanganyar,2020,0
+Klaten,2020,0
+Kota Magelang,2020,0
+Kota Pekalongan,2020,1105.45
+Kudus,2020,0
+Magelang,2020,0
+Pati,2020,6570.0
+Pekalongan,2020,1340.66
+Pemalang,2020,6091.11
+Purbalingga,2020,0
+Semarang,2020,0
+Sragen,2020,0
+Sukoharjo,2020,0
+Wonosobo,2020,0
+Kota Semarang,2020,3116.43
+Purworejo,2020,5321.96
+Rembang,2020,12588.38
+Tegal,2020,5415.32
+Temanggung,2020,0
+Wonogiri,2020,2518.99
+Kota Tegal,2021,1802.09
+Kebumen,2021,11916.76
+Kendal,2021,5914.6
+Kota Salatiga,2021,0
+Kota Surakarta,2021,0
+Banjarnegara,2021,0
+Banyumas,2021,0
+Batang,2021,8134.6
+Blora,2021,0
+Boyolali,2021,0
+Brebes,2021,4099.41
+Cilacap,2021,17348.97
+Demak,2021,4277.23
+Grobogan,2021,0
+Jepara,2021,18435.71
+Karanganyar,2021,0
+Klaten,2021,0
+Kota Magelang,2021,0
+Kota Pekalongan,2021,1038.88
+Kudus,2021,0
+Magelang,2021,0
+Pati,2021,6844.57
+Pekalongan,2021,1190.85
+Pemalang,2021,6044.98
+Purbalingga,2021,0
+Semarang,2021,0
+Sragen,2021,0
+Sukoharjo,2021,0
+Wonosobo,2021,0
+Kota Semarang,2021,3099.39
+Purworejo,2021,5364.87
+Rembang,2021,12706.05
+Tegal,2021,5440.66
+Temanggung,2021,0
+Wonogiri,2021,2526.51
+Kota Tegal,2022,1792.98
+Kebumen,2022,11995.75
+Kendal,2022,5935.36
+Kota Salatiga,2022,0
+Kota Surakarta,2022,0
+Banjarnegara,2022,0
+Banyumas,2022,0
+Batang,2022,8026.85
+Blora,2022,0
+Boyolali,2022,0
+Brebes,2022,4289.73
+Cilacap,2022,16833.01
+Demak,2022,4188.68
+Grobogan,2022,0
+Jepara,2022,18627.85
+Karanganyar,2022,0
+Klaten,2022,0
+Kota Magelang,2022,0
+Kota Pekalongan,2022,970.61
+Kudus,2022,0
+Magelang,2022,0
+Pati,2022,7124.2
+Pekalongan,2022,1153.01
+Pemalang,2022,5857.02
+Purbalingga,2022,0
+Semarang,2022,0
+Sragen,2022,0
+Sukoharjo,2022,0
+Wonosobo,2022,0
+Kota Semarang,2022,3075.95
+Purworejo,2022,5427.73
+Rembang,2022,12719.16
+Tegal,2022,5416.16
+Temanggung,2022,0
+Wonogiri,2022,2531.17
+Kota Tegal,2023,1705.6
+Kebumen,2023,12000.01
+Kendal,2023,5873.16
+Kota Salatiga,2023,0
+Kota Surakarta,2023,0
+Banjarnegara,2023,0
+Banyumas,2023,0
+Batang,2023,8019.6
+Blora,2023,0
+Boyolali,2023,0
+Brebes,2023,4909.87
+Cilacap,2023,17135.07
+Demak,2023,4383.99
+Grobogan,2023,0
+Jepara,2023,18546.93
+Karanganyar,2023,0
+Klaten,2023,0
+Kota Magelang,2023,0
+Kota Pekalongan,2023,924.83
+Kudus,2023,0
+Magelang,2023,0
+Pati,2023,7220.82
+Pekalongan,2023,1057.69
+Pemalang,2023,5730.9
+Purbalingga,2023,0
+Semarang,2023,0
+Sragen,2023,0
+Sukoharjo,2023,0
+Wonosobo,2023,0
+Kota Semarang,2023,3017.82
+Purworejo,2023,5429.8
+Rembang,2023,12810.0
+Tegal,2023,5390.77
+Temanggung,2023,0
+Wonogiri,2023,2527.04
+Kota Tegal,2024,1747.69
+Kebumen,2024,11931.09
+Kendal,2024,5947.52
+Kota Salatiga,2024,0
+Kota Surakarta,2024,0
+Banjarnegara,2024,0
+Banyumas,2024,0
+Batang,2024,8063.81
+Blora,2024,0
+Boyolali,2024,0
+Brebes,2024,4735.39
+Cilacap,2024,17048.72
+Demak,2024,4406.6
+Grobogan,2024,0
+Jepara,2024,18451.93
+Karanganyar,2024,0
+Klaten,2024,0
+Kota Magelang,2024,0
+Kota Pekalongan,2024,985.6
+Kudus,2024,0
+Magelang,2024,0
+Pati,2024,6793.86
+Pekalongan,2024,1070.67
+Pemalang,2024,5741.17
+Purbalingga,2024,0
+Semarang,2024,0
+Sragen,2024,0
+Sukoharjo,2024,0
+Wonosobo,2024,0
+Kota Semarang,2024,3090.76
+Purworejo,2024,5404.74
+Rembang,2024,12795.59
+Tegal,2024,5398.85
+Temanggung,2024,0
+Wonogiri,2024,2522.44
+Kota Tegal,2025,1839.34
+Kebumen,2025,11960.97
+Kendal,2025,6060.7
+Kota Salatiga,2025,0
+Kota Surakarta,2025,0
+Banjarnegara,2025,0
+Banyumas,2025,0
+Batang,2025,8057.16
+Blora,2025,0
+Boyolali,2025,0
+Brebes,2025,4610.65
+Cilacap,2025,17407.54
+Demak,2025,4426.94
+Grobogan,2025,0
+Jepara,2025,18466.41
+Karanganyar,2025,0
+Klaten,2025,0
+Kota Magelang,2025,0
+Kota Pekalongan,2025,1002.26
+Kudus,2025,0
+Magelang,2025,0
+Pati,2025,6924.22
+Pekalongan,2025,1027.54
+Pemalang,2025,5668.4
+Purbalingga,2025,0
+Semarang,2025,0
+Sragen,2025,0
+Sukoharjo,2025,0
+Wonosobo,2025,0
+Kota Semarang,2025,3183.31
+Purworejo,2025,5419.95
+Rembang,2025,12898.38
+Tegal,2025,5410.21
+Temanggung,2025,0
+Wonogiri,2025,2524.57
