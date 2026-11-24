@@ -10,6 +10,8 @@ Repo ini berisi kode, konfigurasi, dan hasil olahan dalam bentuk CSV. Data menta
 - `scripts/gee_luas_daratan_pesisir.py`: hitung luas daratan di zona pesisir per tahun dari Landsat 8 (NDWI) lewat Google Earth Engine.
 - `scripts/simulasi_kualitas_udara.py`: simulasi panel PM2.5 dengan ketergantungan spasial (matriks bobot Queen).
 - `scripts/simulasi_peta_dan_moran.py`: peta simulasi dan statistik Moran's I.
+- Skrip analisis statistik spasial rumusan 1: persentase perubahan luas per kabupaten/kota, Moran's I, dan Getis-Ord Gi* (belum dibuat).
+- Skrip LISA dan Getis-Ord Gi* untuk rumusan 2 (belum dibuat).
 - `scripts/scrape_tabel.py`: ambil tabel dari halaman web, dengan cek robots.txt dan jeda 2 detik.
 - `config/sumber_data.yaml`: daftar sumber data dan parameter.
 - `PROGRESS.md`: status tiap rumusan, data yang tersedia, dan keterbatasannya.
@@ -27,6 +29,8 @@ python scripts/simulasi_peta_dan_moran.py
 ```
 
 Skrip Google Earth Engine memerlukan akun dan proyek GEE yang sudah terdaftar, serta autentikasi dengan `earthengine authenticate`.
+
+Skrip analisis statistik spasial akan ditambahkan setelah metode disepakati.
 
 ## Catatan
 
