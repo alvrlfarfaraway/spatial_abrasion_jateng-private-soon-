@@ -1,0 +1,43 @@
+# Daftar sumber data. Verifikasi tiap URL secara manual sebelum dipakai.
+# status: belum_dicek | ok | gagal
+
+provinsi: Jawa Tengah
+tahun_awal: 2014
+tahun_akhir: 2025
+
+batas_wilayah:
+  nama: GADM 4.1 level 2 Indonesia
+  url: https://geodata.ucdavis.edu/gadm/gadm4.1/json/gadm41_IDN_2.json.zip
+  lisensi: GADM (gratis untuk akademik, non-komersial, cek gadm.org/license)
+  status: ok  # unduhan berhasil 2026-11-22
+
+citra_satelit:
+  nama: Landsat 8 Collection 2 Level 2 via Google Earth Engine
+  koleksi_utama:
+    - LANDSAT/LC08/C02/T1_L2
+  koleksi_uji_pembanding:  # tidak dipakai di CSV utama (--sensor gabungan)
+    - LANDSAT/LC09/C02/T1_L2
+  jendela_komposit: 1 Juni sampai 31 Oktober, median per tahun, 2014 sampai 2025
+  catatan_belum_dijelaskan: lonjakan NDWI rata-rata Pekalongan dari 2020 ke 2021 (sekitar +0,12) belum dijelaskan. Lonjakan itu tetap ada dengan Landsat 8 saja. Jumlah scene per piksel justru turun dari 8,25 (2020) ke 7,19 (2021), jadi tidak menjelaskan lonjakan ini.
+  alasan_landsat8_saja: Landsat 9 mulai ikut komposit 2022 (jumlah scene per tahun 75 ke 149) dan mengubah komposit gabungan. Lihat catatan metodologi di laporan.
+  batas_admin_gee: FAO/GAUL/2025/level2  # kab/kota, filter GAUL1_NAME = Jawa Tengah (35 entri)
+  garis_pantai_lokal: data/processed/garis_pantai_jateng.geojson  # dibuat scripts/garis_pantai_lokal.py dari GADM 4.1 (mask darat)
+  metode_zona_pesisir: buffer 2.000 m ke darat dan ke laut dari garis pantai. Garis pantai = pita 30 m di dalam batas luar provinsi, dikurangi bagian berbatasan dengan provinsi lain, lalu hanya bagian dengan laut dalam 300 m. Laut = cincin 2 km di luar provinsi dikurangi daratan GADM.
+  project_gee: ID_PROYEK_GEE
+  status: ok  # CSV utama lc08, 1 Juni sampai 31 Oktober, 2014 sampai 2025: 420 baris, tanpa nilai kosong, run 2026-11-22
+
+# Tabel web untuk di-scrape (pandas.read_html). Isi sendiri setelah dicek.
+tabel_web:
+  - id: ispu_databoks_contoh
+    url: https://databoks.katadata.co.id/layanan-konsumen-kesehatan/statistik/e15cbb7e11d68f7/kualitas-udara-dki-jakarta-sabtu-malam-1411-terburuk-di-indonesia
+    keterangan: ISPU per provinsi (snapshot harian). Hanya untuk kalibrasi rata-rata simulasi.
+    status: belum_dicek
+  - id: ispu_jakarta_2021
+    url: https://data.jakarta.go.id/dataset/indeks-standar-pencemaran-udara-ispu-tahun-2021
+    keterangan: ISPU 5 stasiun SPKU DKI Jakarta 2021. Referensi kalibrasi.
+    status: belum_dicek
+
+kalibrasi_simulasi:
+  # Isi dari data riil setelah dicek. Nilai awal ini hanya placeholder.
+  pm25_rata_rata_ugm3: 25.0
+  pm25_sd_antar_wilayah: 6.0

@@ -1,0 +1,13 @@
+numpy
+pandas
+scipy
+pyyaml
+requests
+lxml
+beautifulsoup4
+geopandas
+libpysal
+esda
+mgwr
+matplotlib
+earthengine-api
