@@ -18,7 +18,7 @@ Buka Google Colab, buat notebook baru, lalu jalankan sel berikut satu per satu:
     gdf = gpd.read_file("data/processed/batas_kabkota_jateng.geojson")
     print(len(gdf))
 
-Hasilnya harus 35. Kalau tidak, berhenti dan laporkan ke ketua kelompok.
+Hasilnya harus 35. Kalau tidak, berhenti.
 
 ## 3. Cek data hasil olahan
 
