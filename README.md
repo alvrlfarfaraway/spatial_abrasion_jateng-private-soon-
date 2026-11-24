@@ -1,7 +1,7 @@
 # Abrasi dan Kualitas Udara Jawa Tengah: Kode Analisis Spasial
 
 Kode untuk tugas Analisis Data Spasial untuk Data Lingkungan (Prodi Statistika dan Sains Data, UNNES).
-Repo ini hanya berisi kode dan konfigurasi. Data mentah dan hasil olahan tidak disertakan dan dibuat ulang oleh skrip.
+Repo ini berisi kode, konfigurasi, dan hasil olahan dalam bentuk CSV. Data mentah dan GeoJSON tidak disertakan dan dibuat ulang oleh skrip.
 
 ## Isi
 
@@ -12,6 +12,8 @@ Repo ini hanya berisi kode dan konfigurasi. Data mentah dan hasil olahan tidak d
 - `scripts/simulasi_peta_dan_moran.py`: peta simulasi dan statistik Moran's I.
 - `scripts/scrape_tabel.py`: ambil tabel dari halaman web, dengan cek robots.txt dan jeda 2 detik.
 - `config/sumber_data.yaml`: daftar sumber data dan parameter.
+- `PROGRESS.md`: status tiap rumusan, data yang tersedia, dan keterbatasannya.
+- `data/processed/`: tiga CSV hasil olahan.
 
 ## Cara menjalankan
 
